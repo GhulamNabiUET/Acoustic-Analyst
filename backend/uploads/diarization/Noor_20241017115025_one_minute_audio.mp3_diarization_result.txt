@@ -1,0 +1,2 @@
+Speaker SPEAKER_00 from 0.0s to 2.0s:  Hello everyone.
+Speaker SPEAKER_00 from 2.0s to 4.0s:  In this English

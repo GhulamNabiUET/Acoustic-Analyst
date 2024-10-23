@@ -1,0 +1,16 @@
+Speaker SPEAKER_01 from 0.0s to 2.0s:  Hello everyone!
+Speaker SPEAKER_01 from 2.0s to 8.0s:  In this English episode, we will be focusing on English conversation.
+Speaker SPEAKER_01 from 8.0s to 14.0s:  Listening to English conversation is an essential part of improving your English language skills.
+Speaker SPEAKER_01 from 14.0s to 21.0s:  It can help you improve your listening, speaking, and comprehension skills.
+Speaker SPEAKER_01 from 21.0s to 26.0s:  In this video, if I ask you a question,
+Speaker SPEAKER_01 from 26.0s to 29.0s:  do you like village or city life?
+Speaker SPEAKER_01 from 29.0s to 34.0s:  You can comment what you like, and now we will be talking about this.
+Speaker SPEAKER_01 from 34.0s to 37.0s:  Let's start!
+Speaker SPEAKER_00 from 37.0s to 40.0s:  Hi, how are you doing today?
+Speaker SPEAKER_02 from 40.0s to 43.0s:  I'm doing well, thank you.
+Speaker SPEAKER_02 from 43.0s to 45.0s:  How about you?
+Speaker SPEAKER_00 from 45.0s to 47.0s:  I'm good too.
+Speaker SPEAKER_00 from 47.0s to 53.0s:  So, I was thinking about the differences between village life and city life.
+Speaker SPEAKER_00 from 53.0s to 56.0s:  What do you think about it?
+Speaker SPEAKER_02 from 56.0s to 59.0s:  Oh, that's an interesting topic.
+Speaker SPEAKER_02 from 59.0s to 61.0s:  I personally...
